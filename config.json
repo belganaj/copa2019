@@ -38,7 +38,7 @@
   },
 
   {
-    "title":"مباريات اليوم",
+    "title":"Live",
     "drawable":"ic_anime",
     "submenu":"",
     "iap":false,
@@ -47,14 +47,14 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/live.html"
+          "http://217.69.12.121/copa2019/en/live.html"
         ]
       }
     ]
   },
 
   {
-    "title":"مباريات الغد",
+    "title":"Table",
     "drawable":"ic_hot",
     "submenu":"",
     "iap":false,
@@ -63,14 +63,14 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/tomorrow.html"
+          "http://217.69.12.121/copa2019/en/table.html"
         ]
       }
     ]
   },
 
   {
-    "title":"مباريات الامس",
+    "title":"Results",
     "drawable":"ic_action",
     "submenu":"",
     "iap":false,
@@ -79,7 +79,7 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/yesterday.html"
+          "http://217.69.12.121/copa2019/en/Results.html"
         ]
       }
     ]
