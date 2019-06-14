@@ -1,36 +1,29 @@
 [
   {
-    "title":"الرئيسية",
+    "title":"home",
     "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
+           {
+        "title":"Live",
+        "provider":"webview",
         "arguments":[
-          "http://androidproar.xyz"
+          "http://217.69.12.121/copa2019/en/live.html"
         ]
       },
       {
-        "title":"مباريات اليوم",
+        "title":"Table",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/live.html"
+          "http://217.69.12.121/copa2019/en/table.html"
         ]
       },
       {
-        "title":"مباريات الغد",
+        "title":"Results",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/tomorrow.html"
-        ]
-      },
-      {
-        "title":"مباريات الامس",
-        "provider":"webview",
-        "arguments":[
-          "http://217.69.12.121/cup/yesterday.html"
+          "http://217.69.12.121/copa2019/en/Results.html"
         ]
       }
     ,
@@ -109,13 +102,13 @@
 
 
   {
-    "title":"تقييم التطبيق",
+    "title":"rate us",
     "drawable":"ic_rate",
-    "submenu":"التواصل معنا والتقييم",
+    "submenu":"Contact and Rate",
     "iap":false,
     "tabs":[
       {
-        "title":"تقييم التطبيق",
+        "title":"rate us",
         "provider":"custom",
         "arguments":[
           "https://play.google.com/store/apps/details?id=com.tab3kora.yallagoal_koora",
@@ -125,7 +118,7 @@
     ]
   },
   {
-    "title":"سياسة الخصوصية",
+    "title":"privacy policy",
     "drawable":"ic_adventure",
     "submenu":"",
     "iap":false,
@@ -140,7 +133,7 @@
     ]
   },
   {
-    "title":"مراسلة ",
+    "title":"Contact us ",
     "drawable":"ic_adventure",
     "submenu":"",
     "iap":false,
