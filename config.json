@@ -28,10 +28,10 @@
       }
     ,
       {
-        "title":"ترتيب الفرق",
+        "title":"Top Scorers",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/belganaj/kora/master/tartib.json"
+          "https://raw.githubusercontent.com/belganaj/kora/master/Top Scorers.json"
         ]
       }
     ]
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "title":"ترتيب الفرق",
+    "title":"Top Scorers",
     "drawable":"ic_adventure",
     "submenu":"",
     "iap":false,
@@ -94,7 +94,7 @@
         "title":"",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/belganaj/kora/master/tartib.json"
+          "https://raw.githubusercontent.com/belganaj/kora/master/Top Scorers.json"
         ]
       }
     ]
