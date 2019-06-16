@@ -28,10 +28,10 @@
       }
     ,
       {
-        "title":"Top Scorers",
-        "provider":"overview",
+        "title":"fixtures",
+        "provider":"webview",
         "arguments":[
-          "https://raw.githubusercontent.com/belganaj/kora/master/Top Scorers.json"
+          "http://217.69.12.121/copa2019/en/fixtures.html"
         ]
       }
     ]
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "title":"Top Scorers",
+    "title":"fixtures",
     "drawable":"ic_adventure",
     "submenu":"",
     "iap":false,
